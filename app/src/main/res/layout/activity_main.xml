@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/rock"
+        style="@style/CategoryStyle"
+        android:background="@color/rock_music"
+        android:text="@string/rock"/>
+
+    <TextView
+        android:id="@+id/electronic"
+        style="@style/CategoryStyle"
+        android:background="@color/edm_music"
+        android:text="@string/edm" />
+
+    <TextView
+        android:id="@+id/arabic"
+        style="@style/CategoryStyle"
+        android:background="@color/arabic_music"
+        android:text="@string/arabic" />
+
+</LinearLayout>

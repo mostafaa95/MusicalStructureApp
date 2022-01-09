@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="rock">Rock</string>
+    <string name="edm">Electronic</string>
+    <string name="arabic">Arabic</string>
+    <string name="play_button">Play</string>
+    <string name="pause_button">Pause</string>
+    <string name="stop_button">Stop</string>
+</resources>
